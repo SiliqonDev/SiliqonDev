@@ -8,7 +8,7 @@
 <hr>
   
 <ul align="center">📌<a href="https://wonkypigs.github.io/" target="_blank" rel="noopener noreferrer">My Website</a> <br>
-<l align="center">📌<a href="https://wonkypigs.github.io/" target="_blank" rel="noopener noreferrer">My Portfolio</a> <br>
+<l align="center">📌<a href="https://wonkypigs.github.io/#portfolio" target="_blank" rel="noopener noreferrer">My Portfolio</a> <br>
   
 <footer>
   <h5>Discord - WonkyPigs#0001</h5>
