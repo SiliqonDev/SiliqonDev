@@ -7,9 +7,10 @@
 <h3 align="center">You can contact me on discord to commission your own bot, website, minecraft plugin or server setup!</h2>
 <hr>
   
-<ul align="center">📌<a href="https://wonkypigs.github.io/" target="_blank" rel="noopener noreferrer">My Website</a> <br>
-<l align="center">📌<a href="https://wonkypigs.github.io/#portfolio" target="_blank" rel="noopener noreferrer">My Portfolio</a> <br>
+<ul align="center">📌<a href="https://wonkypigs.dev" target="_blank" rel="noopener noreferrer">My Website</a> <br>
+<l align="center">📌<a href="https://wonkypigs.dev/#portfolio" target="_blank" rel="noopener noreferrer">My Portfolio</a> <br>
   
 <footer>
   <h5>Discord - WonkyPigs#0001</h5>
+  <h5>Contact Email - contact@wonkypigs.dev</h5>
 </footer>
