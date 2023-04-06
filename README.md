@@ -12,5 +12,4 @@
   
 <footer>
   <h5>Discord - WonkyPigs#0001</h5>
-  <h5>Contact Email - contact@wonkypigs.dev</h5>
 </footer>
