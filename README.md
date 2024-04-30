@@ -8,5 +8,5 @@
 <l align="center">📌<a href="https://wonkydev.com/#portfolio" target="_blank" rel="noopener noreferrer">My Portfolio</a> <br>
   
 <footer>
-  <h5>Discord - wonkypigs</h5>
+  <h5>Discord - wonkydev</h5>
 </footer>
