@@ -1,4 +1,4 @@
-<h2 align="center"> Wonky Dev </h1> 
+<h2 align="center"> Siliqon Dev </h1> 
 <h3 align="center"> I just like programming and gaming in my free time.</h2>
   
 <h3 align="center">You can contact me on discord to commission your own bot, website, minecraft plugin or server setup!</h2>
@@ -8,5 +8,5 @@
 <l align="center">📌<a href="https://wonkydev.com/#portfolio" target="_blank" rel="noopener noreferrer">My Portfolio</a> <br>
   
 <footer>
-  <h5>Discord - wonkydev</h5>
+  <h5>Discord - siliqon</h5>
 </footer>
